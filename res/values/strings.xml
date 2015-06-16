@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MidtermApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit_String">Exit</string>
+    <string name="audience_String">Audience</string>
+    <string name="critics_String">Critics</string>
+    <string name="dateString">date</string>
+    <string name="mpaaRating">Mpaa Rating</string>
+    <string name="durationSring">Duration</string>
+    <string name="aud_Rating">Audience</string>
+    <string name="critics_Rating">Critics</string>
+</resources>
