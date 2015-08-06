@@ -29,6 +29,6 @@ This App is built to work with Android API 19(KitKat). **However**, the minimum 
 Now the app is ready to be used. It app can be installed on any android mobile device. 
 
 The first activity contains a listview displaying four options, 1. Box Office Movies, 2. In Theater Movies, 3.Opening Movies and 4. Upcoming Movies. Clicking on any one of these options will populate another list view containing the movie name along with movie poster thumbnail, title, year, and MPAA rating etc.
-Clicling on any of the movie will take you to the next intent which displays more information about the movie. It also gives Audience rating and Critics rating.
+Clicking on any of the movie will take you to the next intent which displays more information about the movie. It also gives Audience rating and Critics rating.
 There is an icon present which redirects the user to the web browser and displays the movie details in the web browser.
 
